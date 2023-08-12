@@ -1,0 +1,33 @@
+<map id="reflex::MemberAttrType" name="reflex::MemberAttrType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2126,155,2331"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1Type.html" title=" " alt="" coords="62,662,191,767"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,780,64,793,39,848,27,893,22,941,21,1002,21,1961,29,2046,48,2125,43,2127,24,2046,16,1961,16,1002,17,940,22,892,34,846,59,790,66,778"/>
+<area shape="poly" id="edge18_Node000001_Node000002" title=" " alt="" coords="116,768,94,875,86,938,83,1002,83,1961,83,2109,77,2109,77,1961,77,1002,81,938,89,874,111,767"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1ReferenceableType.html" title=" " alt="" coords="100,1200,268,1265"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="137,781,183,1200,178,1200,131,782"/>
+<area shape="rect" id="Node000006" href="$classreflex_1_1Declaration.html" title=" " alt="" coords="211,940,330,1066"/>
+<area shape="poly" id="edge11_Node000006_Node000002" title=" " alt="" coords="167,766,182,790,216,858,245,924,240,926,212,860,178,793,163,768"/>
+<area shape="rect" id="Node000011" href="$classreflex_1_1ScopeMember.html" title=" " alt="" coords="354,830,491,1176"/>
+<area shape="poly" id="edge13_Node000011_Node000002" title=" " alt="" coords="193,758,205,765,244,782,278,791,309,803,343,828,344,830,341,833,340,832,307,808,276,796,243,787,203,770,190,762"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1CompositeType.html" title=" " alt="" coords="117,1857,285,2063"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,2064,136,2111,131,2109,153,2061"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="188,1279,202,1857,196,1857,182,1280"/>
+<area shape="rect" id="Node000005" href="$classreflex_1_1AggregateDecl.html" title=" " alt="" coords="221,1479,360,1604"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="280,1605,229,1842,224,1840,275,1604"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="276,1080,291,1479,286,1479,271,1080"/>
+<area shape="rect" id="Node000007" href="$classreflex_1_1ASTNode.html" title=" " alt="" coords="216,662,325,767"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="273,781,273,941,268,941,268,781"/>
+<area shape="rect" id="Node000012" href="$classreflex_1_1LexicalScope.html" title=" " alt="" coords="472,1289,640,1794"/>
+<area shape="poly" id="edge17_Node000012_Node000007" title=" " alt="" coords="326,758,339,765,363,776,386,782,429,788,468,797,487,809,506,829,525,860,539,903,551,954,559,1012,568,1140,570,1272,564,1272,563,1140,554,1012,545,955,534,904,520,863,502,832,484,814,466,802,428,793,385,787,361,781,336,770,324,762"/>
+<area shape="rect" id="Node000008" href="$classreflex_1_1SourceLocation.html" title=" " alt="" coords="199,334,342,599"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="273,599,273,645,268,645,268,599"/>
+<area shape="rect" id="Node000009" href="$classreflex_1_1SourceFile.html" title=" " alt="" coords="192,5,349,271"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="273,270,273,316,268,316,268,270"/>
+<area shape="rect" id="Node000010" href="$classreflex_1_1ASTDeclVisitable.html" title=" " alt="" coords="350,672,506,757"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="386,770,344,832,316,887,294,941,289,939,311,885,339,829,382,767"/>
+<area shape="poly" id="edge12_Node000005_Node000011" title=" " alt="" coords="356,1147,336,1200,319,1269,308,1338,296,1463,291,1462,303,1338,314,1268,330,1199,352,1145"/>
+<area shape="poly" id="edge16_Node000012_Node000011" title=" " alt="" coords="395,1175,396,1221,404,1264,430,1338,466,1407,461,1409,425,1340,398,1266,391,1221,389,1176"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="516,1290,495,1200,493,1192,498,1191,500,1199,521,1289"/>
+<area shape="rect" id="Node000013" href="$classreflex_1_1LexicalContext.html" title=" " alt="" coords="643,890,811,1116"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="694,1116,644,1273,639,1272,689,1115"/>
+</map>

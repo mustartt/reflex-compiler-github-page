@@ -1,0 +1,13 @@
+<map id="reflex::LexicalContextForwardPass" name="reflex::LexicalContextForwardPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="304,454,521,1059"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1ASTDeclVisitor.html" title=" " alt="" coords="5,85,148,311"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,322,163,389,233,504,306,610,302,613,228,507,158,392,125,325"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1ASTStmtVisitor.html" title=" " alt="" coords="173,45,317,351"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,363,324,453,319,454,292,365"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1ASTExprVisitor.html" title=" " alt="" coords="341,15,484,381"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="415,395,415,454,410,454,410,395"/>
+<area shape="rect" id="Node000005" href="$classreflex_1_1LexicalContext.html" title=" " alt="" coords="509,85,677,311"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="559,311,518,439,513,437,554,310"/>
+<area shape="rect" id="Node000006" href="$classreflex_1_1TypeContext.html" title=" " alt="" coords="701,5,839,391"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="704,369,691,392,615,509,534,616,530,613,611,506,686,389,699,366"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="reflex::CodeGenJSTarget" name="reflex::CodeGenJSTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="240,1982,400,2067"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1CodeGenTarget.html" title=" " alt="" coords="5,1684,149,1769"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,1782,121,1850,140,1885,163,1917,200,1952,242,1981,239,1986,197,1957,159,1921,136,1888,117,1852,90,1784"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1TypeContext.html" title=" " alt="" coords="174,1534,311,1919"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,1918,293,1957,296,1965,291,1967,288,1959,276,1920"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1ASTContext.html" title=" " alt="" coords="336,1664,461,1789"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="402,1789,395,1871,386,1916,372,1959,367,1968,363,1966,367,1957,381,1915,389,1871,397,1789"/>
+<area shape="rect" id="Node000005" href="$classreflex_1_1CompilationUnit.html" title=" " alt="" coords="647,1644,793,1809"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="703,1810,677,1869,659,1897,636,1921,586,1957,530,1984,472,2003,417,2015,416,2010,470,1997,528,1979,583,1953,633,1917,654,1893,672,1866,698,1808"/>
+<area shape="rect" id="Node000006" href="$classreflex_1_1Declaration.html" title=" " alt="" coords="795,1140,914,1266"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="838,1280,744,1645,738,1643,833,1279"/>
+<area shape="rect" id="Node000007" href="$classreflex_1_1ASTNode.html" title=" " alt="" coords="545,722,655,827"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="633,838,649,863,668,885,697,905,724,915,751,925,778,949,807,994,828,1045,842,1095,851,1140,846,1141,837,1096,823,1046,802,997,774,952,748,930,722,920,694,910,665,889,645,866,628,841"/>
+<area shape="rect" id="Node000012" href="$classreflex_1_1LexicalScope.html" title=" " alt="" coords="471,950,639,1456"/>
+<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="597,827,586,934,581,933,592,827"/>
+<area shape="rect" id="Node000008" href="$classreflex_1_1SourceLocation.html" title=" " alt="" coords="529,334,671,599"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="603,599,603,705,597,705,597,599"/>
+<area shape="rect" id="Node000009" href="$classreflex_1_1SourceFile.html" title=" " alt="" coords="521,5,679,271"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="603,270,603,316,597,316,597,270"/>
+<area shape="rect" id="Node000010" href="$classreflex_1_1ASTDeclVisitable.html" title=" " alt="" coords="833,732,989,817"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="906,832,865,1141,860,1140,901,831"/>
+<area shape="rect" id="Node000011" href="$classreflex_1_1Type.html" title=" " alt="" coords="679,722,809,827"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="760,826,837,1123,832,1124,755,828"/>
+<area shape="rect" id="Node000014" href="$classreflex_1_1ScopeMember.html" title=" " alt="" coords="486,1554,623,1899"/>
+<area shape="poly" id="edge14_Node000014_Node000011" title=" " alt="" coords="731,828,715,887,702,951,698,1056,695,1233,688,1408,682,1473,672,1511,663,1520,654,1525,645,1528,637,1536,632,1541,628,1538,633,1532,642,1524,652,1520,660,1516,667,1508,676,1472,683,1408,690,1233,693,1056,697,950,710,885,726,827"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="637,1455,692,1627,687,1628,632,1456"/>
+<area shape="poly" id="edge15_Node000014_Node000012" title=" " alt="" coords="557,1456,557,1537,552,1537,552,1456"/>
+<area shape="rect" id="Node000013" href="$classreflex_1_1LexicalContext.html" title=" " alt="" coords="353,662,521,887"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="471,887,483,933,478,935,465,888"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="487,1556,471,1536,462,1528,452,1525,441,1521,432,1511,422,1487,417,1463,419,1413,435,1364,459,1318,464,1321,440,1366,425,1414,422,1463,427,1486,437,1508,444,1517,453,1520,464,1524,475,1532,491,1552"/>
+</map>

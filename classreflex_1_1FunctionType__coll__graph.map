@@ -1,0 +1,8 @@
+<map id="reflex::FunctionType" name="reflex::FunctionType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,275,190,480"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1ReferenceableType.html" title=" " alt="" coords="147,160,315,225"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,239,178,276,174,273,199,236"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1Type.html" title=" " alt="" coords="5,5,135,111"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="70,111,69,160,67,193,69,225,75,258,69,259,64,226,62,193,64,160,65,110"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,117,195,158,192,162,142,122"/>
+</map>

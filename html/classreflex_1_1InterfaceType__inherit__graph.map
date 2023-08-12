@@ -1,0 +1,9 @@
+<map id="reflex::InterfaceType" name="reflex::InterfaceType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,545,167,811"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1CompositeType.html" title=" " alt="" coords="5,272,173,497"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,512,92,546,87,546,87,512"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1ReferenceableType.html" title=" " alt="" coords="5,159,173,224"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,238,92,272,87,272,87,238"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1Type.html" title=" " alt="" coords="25,5,154,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="92,125,92,159,87,159,87,125"/>
+</map>

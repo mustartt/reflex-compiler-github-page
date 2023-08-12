@@ -1,0 +1,19 @@
+<map id="reflex::BasicLiteral" name="reflex::BasicLiteral">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,425,353,511"/>
+<area shape="rect" id="Node000006" href="$classreflex_1_1BooleanLiteral.html" title=" " alt="" coords="5,559,140,644"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="221,515,141,562,138,558,219,510"/>
+<area shape="rect" id="Node000007" href="$classreflex_1_1NullLiteral.html" title=" " alt="" coords="164,569,275,634"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="265,524,239,570,235,567,260,522"/>
+<area shape="rect" id="Node000008" href="$classreflex_1_1NumberLiteral.html" title=" " alt="" coords="299,559,433,644"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="325,522,345,557,341,560,320,524"/>
+<area shape="rect" id="Node000009" href="$classreflex_1_1StringLiteral.html" title=" " alt="" coords="457,569,579,634"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="367,509,465,566,463,571,364,514"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1Literal.html" title=" " alt="" coords="249,312,337,377"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,392,295,426,290,426,290,392"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1Expression.html" title=" " alt="" coords="234,159,351,264"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,278,295,312,290,312,290,278"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1ASTNode.html" title=" " alt="" coords="150,5,259,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="244,121,265,158,261,160,239,124"/>
+<area shape="rect" id="Node000005" href="$classreflex_1_1ASTExpressionVisitable.html" title=" " alt="" coords="284,15,477,101"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="352,114,325,161,320,158,347,111"/>
+</map>

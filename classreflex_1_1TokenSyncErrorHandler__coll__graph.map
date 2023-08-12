@@ -1,0 +1,25 @@
+<map id="reflex::TokenSyncErrorHandler" name="reflex::TokenSyncErrorHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2653,196,2719"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1ErrorHandler.html" title=" " alt="" coords="157,2499,321,2604"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,2616,135,2656,131,2652,173,2612"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1Parser.html" title=" " alt="" coords="225,1050,406,2436"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,2436,248,2482,243,2482,247,2435"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1ASTContext.html" title=" " alt="" coords="253,762,378,887"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="318,887,318,1033,313,1033,313,887"/>
+<area shape="rect" id="Node000005" href="$classreflex_1_1Lexer.html" title=" " alt="" coords="529,364,693,569"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="617,569,616,659,612,764,602,877,585,988,551,1128,508,1268,462,1401,415,1521,410,1519,457,1399,503,1267,546,1127,579,987,597,876,606,764,611,659,611,569"/>
+<area shape="rect" id="Node000006" href="$classreflex_1_1SourceFile.html" title=" " alt="" coords="338,5,495,271"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="497,269,544,348,540,350,493,272"/>
+<area shape="rect" id="Node000010" href="$classreflex_1_1SourceLocation.html" title=" " alt="" coords="265,334,408,599"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="387,271,376,318,370,316,382,270"/>
+<area shape="rect" id="Node000007" href="$structreflex_1_1Lexer_1_1LexerState.html" title=" " alt="" coords="533,85,689,191"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="614,191,614,347,609,347,609,191"/>
+<area shape="rect" id="Node000008" href="$classreflex_1_1Token.html" title=" " alt="" coords="82,662,229,987"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="186,987,224,1206,219,1207,181,988"/>
+<area shape="rect" id="Node000009" href="$classreflex_1_1TokenType.html" title=" " alt="" coords="25,354,141,579"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="68,579,54,697,47,823,47,2552,55,2597,73,2638,68,2640,50,2599,42,2553,42,823,48,696,62,578"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="108,578,122,645,117,646,103,579"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="272,600,239,666,234,663,268,597"/>
+<area shape="rect" id="Node000011" href="$structreflex_1_1Parser_1_1ParserState.html" title=" " alt="" coords="402,792,570,857"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="483,857,412,1239,407,1238,478,857"/>
+</map>

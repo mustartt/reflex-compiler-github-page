@@ -1,0 +1,18 @@
+<map id="reflex::NewExpr" name="reflex::NewExpr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,999,239,1084"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1Expression.html" title=" " alt="" coords="199,830,316,936"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,950,222,976,208,1000,203,997,218,973,230,947"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1ASTNode.html" title=" " alt="" coords="29,662,139,767"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,775,206,829,202,832,146,779"/>
+<area shape="rect" id="Node000008" href="$classreflex_1_1ASTTypeExpr.html" title=" " alt="" coords="35,850,168,916"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="94,781,101,850,95,851,88,782"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1SourceLocation.html" title=" " alt="" coords="13,334,155,599"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,599,87,645,81,645,81,599"/>
+<area shape="rect" id="Node000005" href="$classreflex_1_1SourceFile.html" title=" " alt="" coords="5,5,163,271"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,270,87,316,81,316,81,270"/>
+<area shape="rect" id="Node000006" href="$classreflex_1_1ASTExpressionVisitable.html" title=" " alt="" coords="163,672,357,757"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="262,771,261,831,255,830,256,771"/>
+<area shape="rect" id="Node000007" href="$classreflex_1_1Type.html" title=" " alt="" coords="381,662,510,767"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="389,769,330,821,326,817,386,765"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="114,914,137,974,142,983,137,985,133,976,109,916"/>
+</map>

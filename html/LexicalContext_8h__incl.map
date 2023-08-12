@@ -1,0 +1,35 @@
+<map id="/Users/henry/workspace/reflex&#45;compiler/src/LexicalContext/LexicalContext.h" name="/Users/henry/workspace/reflex&#45;compiler/src/LexicalContext/LexicalContext.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="276,5,453,61"/>
+<area shape="rect" id="Node000002" href="$LexicalScope_8h.html" title=" " alt="" coords="510,109,620,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="429,59,525,100,523,105,426,64"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="395,183,452,208"/>
+<area shape="poly" id="edge18_Node000001_Node000006" title=" " alt="" coords="377,61,417,168,412,170,372,63"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="55,330,123,356"/>
+<area shape="poly" id="edge19_Node000001_Node000007" title=" " alt="" coords="276,50,212,66,143,93,110,111,79,131,51,156,27,184,13,209,8,231,11,254,22,281,37,302,56,319,53,323,33,306,17,283,6,255,3,231,8,207,23,181,47,152,75,127,107,106,141,88,210,61,275,45"/>
+<area shape="rect" id="Node000009" href="$ASTDeclaration_8h.html" title=" " alt="" coords="237,109,362,135"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="347,63,319,99,315,95,342,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="330,256,383,282"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="600,133,630,146,657,164,673,185,673,198,667,210,648,225,621,236,548,253,468,264,399,269,398,263,467,258,547,248,619,231,645,220,663,207,668,197,668,187,653,168,627,151,598,138"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="476,183,515,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="555,137,519,174,515,170,551,133"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="539,183,591,208"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="567,135,567,168,562,168,562,135"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="542,138,462,178,459,173,540,133"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="611,133,645,145,676,162,687,173,694,184,695,197,688,210,672,226,650,241,591,267,518,288,436,305,269,329,138,341,137,336,268,324,435,300,516,283,589,262,647,236,668,222,684,207,689,196,689,186,683,176,673,167,643,150,609,138"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="615,183,653,208"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="578,133,614,170,610,174,574,137"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="309,134,334,182,353,241,348,243,329,184,304,136"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="322,133,391,173,389,177,319,138"/>
+<area shape="rect" id="Node000010" href="$AST_8h.html" title=" " alt="" coords="263,183,320,208"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="301,135,297,168,292,167,295,135"/>
+<area shape="rect" id="Node000011" href="$ASTUtils_8h.html" title=" " alt="" coords="154,183,239,208"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="283,137,227,176,224,172,280,133"/>
+<area shape="rect" id="Node000013" href="$ASTVisitor_8h.html" title=" " alt="" coords="36,183,131,208"/>
+<area shape="poly" id="edge15_Node000009_Node000013" title=" " alt="" coords="264,138,135,180,133,175,262,133"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="225,206,317,247,315,252,223,211"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="170,256,247,282"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="201,208,207,241,202,242,196,209"/>
+<area shape="rect" id="Node000014" href="$Generics_8h.html" title=" " alt="" coords="31,256,146,282"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="87,208,89,241,84,241,82,209"/>
+<area shape="poly" id="edge17_Node000014_Node000007" title=" " alt="" coords="91,282,91,315,86,315,86,282"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="reflex::LexicalContextDeclTypePass::ReleaseScope" name="reflex::LexicalContextDeclTypePass::ReleaseScope">
+<area shape="rect" id="Node000001" title=" " alt="" coords="329,1745,496,1845"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1LexicalContextDeclTypePass.html" title=" " alt="" coords="311,882,515,1682"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,1682,415,1728,410,1728,410,1682"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1ASTDeclVisitor.html" title=" " alt="" coords="5,524,148,749"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,761,163,818,313,1099,308,1102,158,820,131,763"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1ASTStmtVisitor.html" title=" " alt="" coords="173,484,317,789"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,802,313,890,308,892,285,803"/>
+<area shape="rect" id="Node000005" href="$classreflex_1_1ASTExprVisitor.html" title=" " alt="" coords="341,454,484,819"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="415,833,415,883,410,883,410,833"/>
+<area shape="rect" id="Node000006" href="$classreflex_1_1TypeContext.html" title=" " alt="" coords="485,5,623,391"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="543,391,524,597,498,819,491,866,486,865,493,819,519,597,537,390"/>
+<area shape="rect" id="Node000007" href="$classreflex_1_1TypeParser.html" title=" " alt="" coords="635,494,814,779"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="625,373,666,477,661,479,620,375"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="659,780,524,1057,519,1054,654,778"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="reflex::ParsingContext" name="reflex::ParsingContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,2499,294,2604"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1Parser.html" title=" " alt="" coords="132,1050,313,2436"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,2435,225,2482,220,2482,220,2435"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1ASTContext.html" title=" " alt="" coords="5,762,131,887"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,887,132,1188,127,1189,76,888"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1Lexer.html" title=" " alt="" coords="66,364,230,569"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="157,569,184,1033,178,1034,151,569"/>
+<area shape="rect" id="Node000005" href="$classreflex_1_1SourceFile.html" title=" " alt="" coords="319,5,476,271"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="321,236,243,335,231,352,227,348,239,332,317,233"/>
+<area shape="rect" id="Node000009" href="$classreflex_1_1SourceLocation.html" title=" " alt="" coords="394,334,537,599"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="427,270,437,316,432,317,422,271"/>
+<area shape="rect" id="Node000006" href="$structreflex_1_1Lexer_1_1LexerState.html" title=" " alt="" coords="70,85,226,191"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="151,191,151,347,145,347,145,191"/>
+<area shape="rect" id="Node000007" href="$classreflex_1_1Token.html" title=" " alt="" coords="239,662,385,987"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="299,987,294,1034,289,1033,294,987"/>
+<area shape="rect" id="Node000008" href="$classreflex_1_1TokenType.html" title=" " alt="" coords="254,354,370,579"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="315,579,315,645,309,645,309,579"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="411,600,391,648,386,646,406,598"/>
+<area shape="rect" id="Node000010" href="$structreflex_1_1Parser_1_1ParserState.html" title=" " alt="" coords="409,792,577,857"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="487,858,321,1420,315,1418,482,856"/>
+</map>

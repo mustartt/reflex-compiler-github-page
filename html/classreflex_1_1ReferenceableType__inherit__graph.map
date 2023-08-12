@@ -1,0 +1,15 @@
+<map id="reflex::ReferenceableType" name="reflex::ReferenceableType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="197,159,365,224"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1ArrayType.html" title=" " alt="" coords="5,282,173,487"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,235,187,274,175,286,171,282,184,270,228,231"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1CompositeType.html" title=" " alt="" coords="197,272,365,497"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="284,238,284,272,279,272,279,238"/>
+<area shape="rect" id="Node000007" href="$classreflex_1_1FunctionType.html" title=" " alt="" coords="389,272,557,497"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="335,231,379,270,391,282,387,286,376,274,331,235"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1Type.html" title=" " alt="" coords="217,5,346,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,125,284,159,279,159,279,125"/>
+<area shape="rect" id="Node000005" href="$classreflex_1_1ClassType.html" title=" " alt="" coords="111,545,271,991"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="254,512,246,546,241,545,249,511"/>
+<area shape="rect" id="Node000006" href="$classreflex_1_1InterfaceType.html" title=" " alt="" coords="295,635,451,901"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="314,510,344,635,339,636,309,512"/>
+</map>

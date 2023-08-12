@@ -1,0 +1,13 @@
+<map id="reflex::Declaration" name="reflex::Declaration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="182,830,301,956"/>
+<area shape="rect" id="Node000002" href="$classreflex_1_1ASTNode.html" title=" " alt="" coords="29,662,139,767"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,776,189,829,185,832,137,780"/>
+<area shape="rect" id="Node000003" href="$classreflex_1_1SourceLocation.html" title=" " alt="" coords="13,334,155,599"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,599,87,645,81,645,81,599"/>
+<area shape="rect" id="Node000004" href="$classreflex_1_1SourceFile.html" title=" " alt="" coords="5,5,163,271"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,270,87,316,81,316,81,270"/>
+<area shape="rect" id="Node000005" href="$classreflex_1_1ASTDeclVisitable.html" title=" " alt="" coords="163,672,319,757"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="244,772,244,830,239,830,239,772"/>
+<area shape="rect" id="Node000006" href="$classreflex_1_1Type.html" title=" " alt="" coords="343,662,473,767"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="361,769,313,820,309,817,357,765"/>
+</map>
